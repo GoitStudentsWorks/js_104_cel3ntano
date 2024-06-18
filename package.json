@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project_myResume/",
+    "build": "vite build --base=/js_104_cel3ntano/",
     "preview": "vite preview"
   },
   "devDependencies": {
